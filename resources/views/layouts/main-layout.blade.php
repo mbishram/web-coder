@@ -11,9 +11,10 @@
   <link rel="stylesheet" href="{{ asset('css/style-about.css') }}">
   <link rel="stylesheet" href="{{ asset('css/style-contact.css') }}">
   <link rel="stylesheet" href="{{ asset('css/style-blog.css') }}">
+  <link rel="stylesheet" href="{{ asset('css/style-artikel.css') }}">
   <!-- Font yang digunakan -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-  <title>{{'Coder Institute | '.$title}}</title>
+  <title>{{ $title }}</title>
 </head>
 <body>
   <!-- Navigation -->
@@ -23,7 +24,7 @@
       <ul class="horizontal-links"></a>
         <li><a href="/" class="weight-medium {{ Request::is('/') ? 'page-selected' : '' }}">Home</a></li>
         <li><a href="/about" class="weight-medium {{ Request::is('about') ? 'page-selected' : '' }}">About Us</a></li>
-        <li><a href="/blog" class="weight-medium {{ Request::is('blog') ? 'page-selected' : '' }}">Blog</a></li>
+        <li><a href="/blog" class="weight-medium {{ Request::is('blog*') ? 'page-selected' : '' }}">Blog</a></li>
         <li><a href="/contact" class="weight-medium {{ Request::is('contact') ? 'page-selected' : '' }}">Contact</a></li>
       </ul>
     </div>

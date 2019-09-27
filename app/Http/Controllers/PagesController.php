@@ -7,19 +7,23 @@ use Illuminate\Http\Request;
 class PagesController extends Controller
 {
     public function index(){
-        $title = 'Home';
+        $title = 'Coder Institute | Home';
         return view('pages.index')->with('title', $title);
     }
     public function about(){
-        $title = 'About';
+        $title = 'Coder Institute | About';
         return view('pages.about')->with('title', $title);
     }
     public function blog(){
-        $title = 'Blog';
+        $title = 'Coder Institute | Blog';
         return view('pages.blog')->with('title', $title);
     }
+    public function artikel(){
+        $title = 'Judul dari Artikel Disini!';
+        return view('pages.artikel')->with('title', $title);
+    }
     public function contact(){
-        $title = 'Contact';
+        $title = 'Coder Institute | Contact';
         return view('pages.contact')->with('title', $title);
     }
 }

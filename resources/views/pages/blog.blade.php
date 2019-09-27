@@ -9,52 +9,52 @@
       <div class= "post grid">
         <div class="post-content">
           <img src="images/blog1.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
           <div class="post-info">1 April 2019 | Pelatihan Website</div>
         </div>
         <div class="post-content">
           <img src="images/blog2.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Berita #4 : Berita berita berita</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Berita #4 : Berita berita berita</a></h2>
           <div class="post-info">1 April 2019 | Berita</div>
         </div>
         <div class="post-content">
           <img src="images/blog1.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
           <div class="post-info">1 April 2019 | Pelatihan Website</div>
         </div>
         <div class="post-content">
           <img src="images/blog2.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Berita #4 : Berita berita berita</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Berita #4 : Berita berita berita</a></h2>
           <div class="post-info">1 April 2019 | Berita</div>
         </div>
         <div class="post-content">
           <img src="images/blog1.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
           <div class="post-info">1 April 2019 | Pelatihan Website</div>
         </div>
         <div class="post-content">
           <img src="images/blog2.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Berita #4 : Berita berita berita</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Berita #4 : Berita berita berita</a></h2>
           <div class="post-info">1 April 2019 | Berita</div>
         </div>
         <div class="post-content">
           <img src="images/blog1.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
           <div class="post-info">1 April 2019 | Pelatihan Website</div>
         </div>
         <div class="post-content">
           <img src="images/blog2.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Berita #4 : Berita berita berita</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Berita #4 : Berita berita berita</a></h2>
           <div class="post-info">1 April 2019 | Berita</div>
         </div>
         <div class="post-content">
           <img src="images/blog1.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
           <div class="post-info">1 April 2019 | Pelatihan Website</div>
         </div>
         <div class="post-content">
           <img src="images/blog2.png" alt="">
-          <h2 class="weight-semibold"><a href="#">Berita #4 : Berita berita berita</a></h2>
+          <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Berita #4 : Berita berita berita</a></h2>
           <div class="post-info">1 April 2019 | Berita</div>
         </div>
       </div>

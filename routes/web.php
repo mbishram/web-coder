@@ -14,4 +14,5 @@
 Route::get('/', 'PagesController@index');
 Route::get('/about', 'PagesController@about');
 Route::get('/blog', 'PagesController@blog');
+Route::get('/blog/judul-dari-artikel-disini', 'PagesController@artikel');
 Route::get('/contact', 'PagesController@contact');

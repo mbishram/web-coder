@@ -19,12 +19,12 @@
       <h1 class="weight-bold text-dark">Artikel Lainnya</h1>
       <div class= "post grid">
         <div class="post-content">
-          <img src="{{ asset('images/blog1.png') }}" alt="">
+          <a href="/blog/judul-dari-artikel-disini"><img src="{{ asset('images/blog1.png') }}" alt=""></a>
           <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Pelatihan #6 : Pelatihan pelatihan pelatihan</a></h2>
           <div class="post-info">1 April 2019 | Pelatihan Website</div>
         </div>
         <div class="post-content">
-          <img src="{{ asset('images/blog2.png') }}" alt="">
+          <a href="/blog/judul-dari-artikel-disini"><img src="{{ asset('images/blog2.png') }}" alt=""></a>
           <h2 class="weight-semibold"><a href="/blog/judul-dari-artikel-disini">Berita #4 : Berita berita berita</a></h2>
           <div class="post-info">1 April 2019 | Berita</div>
         </div>

@@ -1,8 +1,6 @@
 .v-centered{
-  display: table-cell;
-  vertical-align: middle;
-  height: inherit;
-  width: 100vw;
+  display: grid;
+  align-self: center;
 }
 .text-coder{
   color: #e9b701;
@@ -11,16 +9,15 @@
   width: 7rem;
 }
 
-#login{
-  background-image: url("../images/login-bg.png");;
-  background-size: cover;
-  background-repeat: no-repeat;
+.login{
+  background-image: url("../images/bg-pattern.svg");
   background-position: center;
-  height: 100vh;
+  background-size: 25rem;
+}
+#login{
+  background-color: rgba(233, 183, 1, 0.055);
+  min-height: 100vh;
 }
 
-@media (min-width: 1200px){
-  #login .isi{
-    padding: 0 10rem;
-  }
 }
+

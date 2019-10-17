@@ -52,9 +52,10 @@
   {{-- This is ckeditor --}}
   <script src="{{ asset('ckeditor/ckeditor.js') }}"></script>
   <script>
-    // Replace the <textarea id="ckeditor"> with a CKEditor
-    // instance, using default configuration.
-    CKEDITOR.replace( 'ckeditor' );
+    CKEDITOR.replace( 'ckeditor1' );
+  </script>
+  <script>
+    CKEDITOR.replace( 'ckeditor2' );
   </script>
 
   <!-- Bootstrap core JavaScript-->
@@ -66,6 +67,14 @@
 
   <!-- Custom scripts for all pages-->
   <script src="{{ asset('bootstrap/js/sb-admin-2.min.js') }}"></script>
+
+  <!-- Bootstrap 4 Browse File -->
+  <script type="application/javascript">
+    $('input[type="file"]').change(function(e){
+      var fileName = e.target.files[0].name;
+      $('.custom-file-label').html(fileName);
+    });
+  </script>
 
   <!-- DataTables plugins and scripts -->  
   <!-- Page level plugins -->

@@ -18,315 +18,401 @@
           <thead>
             <tr>
               <th>Title</th>
+              <th>Cover Image</th>
               <th>Edit / Delete</th>
             </tr>
           </thead>
           <tfoot>
             <tr>
               <th>Title</th>
+              <th>Cover Image</th>
               <th>Edit / Delete</th>
             </tr>
           </tfoot>
           <tbody>
+
             <tr>
               <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
             <tr>
-              <td>Pelatihan #1 : Pelatihan pelatihan pelatihan</td>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
               <td>
-                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#editPostModal">Edit</a>
-                <a href="#" class="btn btn-danger ml-1">Delete</a>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
+              </td>
+            </tr>
+            <tr>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
+              <td>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
+              </td>
+            </tr>
+            <tr>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
+              <td>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
+              </td>
+            </tr>
+            <tr>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
+              <td>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
+              </td>
+            </tr>
+            <tr>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
+              <td>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
+              </td>
+            </tr>
+            <tr>
+              <td>Pelatihan #6 : Pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan pelatihan</td>
+              <td><img src="/images/blog1.png" alt="" style="width: 10rem;"></td>
+              <td>
+                <a href="#" class="btn btn-primary m-1" data-toggle="modal" data-target="#editPostModal">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
               </td>
             </tr>
 

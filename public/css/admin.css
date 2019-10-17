@@ -1,0 +1,26 @@
+.v-centered{
+  display: table-cell;
+  vertical-align: middle;
+  height: inherit;
+  width: 100vw;
+}
+.text-coder{
+  color: #e9b701;
+}
+.logo{
+  width: 7rem;
+}
+
+#login{
+  background-image: url("../images/login-bg.png");;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+@media (min-width: 1200px){
+  #login .isi{
+    padding: 0 10rem;
+  }
+}

@@ -7,13 +7,14 @@
       <h1>Coder Institute</h1>
       <img src="{{ asset('images/divider-main.png') }}" alt="------" class="devider">
       <h2>For a <span class="text-coder weight-semibold">Better Future</span></h2>
-      <a href="#intro"><img src="{{ asset('images/scroll.png') }}" alt="v" class="scroll"></a>
+      <a href="#about"><img src="{{ asset('images/scroll.png') }}" alt="v" class="scroll"></a>
     </div>
   </section>
   <!-- Hero END -->
 
   <!-- Intro -->
-  <section id="intro">
+  <section id="intro" class="anchor">
+    <a name="about">&nbsp;</a>
     <div class="wrap grid h-centered-grid">
       <h1 class="h-centered"><span class="text-coder">Hello</span> <span class="text-dark">World!</span></h1>
       <img src="{{ asset('images/devider-center.png') }}" alt="------" class="devider">

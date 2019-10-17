@@ -26,39 +26,46 @@
             <div class="formulir">
                 <h2>Send us an email!</h2>
                 <form action="contact.html" method="POST">
-                    <div class="row">
-                        <div class="col-25">
-                            <label for="fname" class="text-coder">Nama Lengkap</label>
+                    <div>
+                        <div>
+                            <label for="fname" class="text-coder">Nama Lengkap<sub>*</sub></label>
                         </div>
-                        <div class="col-75">
-                            <input type="text" id="fname" name="firstname" placeholder="Nama Lengkap Anda">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-25">
-                            <label for="email" class="text-coder">Alamat Email</label>
-                        </div>
-                        <div class="col-75">
-                            <input type="email" id="email" name="email" placeholder="Alamat Email Anda">
+                        <div>
+                            <input type="text" id="fname" name="firstname" placeholder="Nama lengkap anda">
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-25">
-                            <label for="subjek" class="text-coder">Subjek Email</label>
+                    <div>
+                        <div>
+                            <label for="email" class="text-coder">Alamat Email<sub>*</sub></label>
                         </div>
-                        <div class="col-75">
-                            <input type="text" id="subjek" name="subjek" placeholder="Subjek Email Anda">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-25">
-                            <label for="message" class="text-coder">Subject</label>
-                        </div>
-                        <div class="col-75">
-                            <textarea id="message" name="subject" placeholder="Pesan Anda..."></textarea>
+                        <div>
+                            <input type="email" id="email" name="email" placeholder="Alamat email anda">
                         </div>
                     </div>
-                    <div class="row">
+                    <div>
+                        <div>
+                            <label for="subjek" class="text-coder">Kategori Subjek<sub>*</sub></label>
+                        </div>
+                        <div class="custom-select">
+                            <div class="select">
+                                <select>
+                                    <option selected disabled>Pilih kategori</option>
+                                    <option>Pekerjaan</option>
+                                    <option>Kritik / Saran</option>
+                                    <option>Lainnya</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <label for="message" class="text-coder">Pesan Anda<sub>*</sub></label>
+                        </div>
+                        <div>
+                            <textarea id="message" name="subject" placeholder="Pesan anda"></textarea>
+                        </div>
+                    </div>
+                    <div>
                         <input type="submit" value="Submit" class="button submit-button">
                     </div>
                 </form>

@@ -16,3 +16,8 @@ Route::get('/about', 'PagesController@about');
 Route::get('/blog', 'PagesController@blog');
 Route::get('/blog/judul-dari-artikel-disini', 'PagesController@artikel');
 Route::get('/contact', 'PagesController@contact');
+
+// Admin
+Route::get('/admin', 'PagesController@login');
+Route::get('/dashboard', 'PagesController@dashboardIndex');
+Route::get('/dashboard/posts', 'PagesController@dashboardPosts');

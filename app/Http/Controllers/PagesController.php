@@ -26,4 +26,15 @@ class PagesController extends Controller
         $title = 'Coder Institute | Contact';
         return view('pages.contact')->with('title', $title);
     }
+
+    // Admin Stuff
+    public function login(){
+        return view('admin.login');
+    }
+    public function dashboardIndex(){
+        return view('admin.index');
+    }
+    public function dashboardPosts(){
+        return view('admin.posts');
+    }
 }
